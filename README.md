@@ -4,3 +4,5 @@
 typora
 sublime text4
 slickedit2023
+vscode
+wps office
