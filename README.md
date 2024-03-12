@@ -5,4 +5,4 @@
 2. sublime text4
 3. slickedit2023
 4. vscode
-5. wps office
+5. wps office(建议禁用云服务)
